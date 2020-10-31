@@ -1,0 +1,22 @@
+{
+  "name": "discordmanager",
+  "version": "1.0.0",
+  "description": "Bot for automating discord management tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qwalley/DiscordManager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qwalley/DiscordManager/issues"
+  },
+  "homepage": "https://github.com/qwalley/DiscordManager#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  }
+}
