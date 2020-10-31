@@ -1,0 +1,12 @@
+{
+	"name": "DiscordManager",
+	"token": "",
+	"prefix": "dm",
+	"debug_channel": "",
+	"on_role_change": [
+		{
+			"role": "",
+			"message": "**Hola**, me nombre es *Stackme*."
+		}
+	]
+}
