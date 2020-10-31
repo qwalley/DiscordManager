@@ -5,7 +5,7 @@
 	"debug_channel": "",
 	"on_role_change": [
 		{
-			"role": "",
+			"rid": "",
 			"message": "**Hola**, me nombre es *Stackme*."
 		}
 	]
